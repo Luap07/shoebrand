@@ -172,7 +172,7 @@ section.hero .down-arrow {
   section.hero svg.down-arrow {
     stroke: black;
     position: unset;
-    margin-top: 13.5em;
+    margin-top: 10.5em;
   }
   section.hero svg.down-arrow path {
     fill: #000;
